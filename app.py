@@ -201,7 +201,7 @@ if q == "Food Classification":
                 st.success(result) 
                                          
         def predict_class(image):        
-            classifier_model = tf.keras.models.load_model("Model/FC_Model.h5")
+            classifier_model = tf.keras.models.load_model("FC_Model.h5")
             #classifier_model = pickle.load(open("D:\\Project_Web\\Model\\C_LP-FC.pkl", 'rb'))
             shape = ((228,228,3))
             tf.keras.Sequential([hub.KerasLayer(classifier_model,input_shape=shape)])
@@ -246,7 +246,7 @@ if q == "Food Classification":
                 st.pyplot(figure)
                 
         def predict_class(image):
-            classifier_model = tf.keras.models.load_model("Model/FC_Model.h5")
+            classifier_model = tf.keras.models.load_model("FC_Model.h5")
             #classifier_model = pickle.load(open("D:\\Project_Web\\Model\\C_LP-FC.pkl", 'rb'))
             shape = ((228,228,3))
             tf.keras.Sequential([hub.KerasLayer(classifier_model,input_shape=shape)])
