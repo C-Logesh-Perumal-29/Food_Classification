@@ -55,3 +55,7 @@
 ## Live Project Link
 
 https://c-lp-food-classification.onrender.com/
+
+## Credits:
+
+  > 👉 **©️ Credits** goes to the **owner** of `all images`. _Thank You_ for all the _**Image Creaters**_ to `done this amazing project` 🤝...
