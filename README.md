@@ -4,9 +4,7 @@
 
 ## Food Items :
 
-<img alt = "Classes" src = "https://github.com/C-Logesh-Perumal-29/C_L_P_Food_Classification_/assets/125385633/ee806e9f-0b5d-440d-bb1f-bb4e4aeae758 ">
-
-<br />
+![FC item](https://github.com/C-Logesh-Perumal-29/Food_Classification/assets/125385633/12ca18c7-092d-40de-9c50-7740ed9f745c)
 
 ## Overview
 
