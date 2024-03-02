@@ -1,0 +1,10 @@
+h5py
+matplotlib
+numpy
+Pillow
+Requests
+streamlit
+streamlit_lottie
+tensorflow
+tensorflow_hub
+tensorflow_intel
